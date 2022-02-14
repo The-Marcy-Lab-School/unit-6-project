@@ -13,12 +13,10 @@ Your assignment is to build a frontend application. Again, there are general gui
 ## Project Requirements
 The requirements of this project are straightforward. You must build a frontend application that fetches data from some external API and presents some novel view or insights based on that data. I encourage you to choose a problem, data set, or API that you are personally interested in. For this project, you are not limited to the web browser as your only UI option. You are allowed to experiment with Slack bots, Alexa skills, Google Assistant Apps, or any other platform that you may be interested in.
 
-Your task is to define a problem that your app will solve but, to some degree, you will be limited by which data sets and APIs you can get your hands on. There are a number of applications that expose APIs for developers to build cool apps on top of. Here are a few to start your search:
-  1. [Yelp](https://www.yelp.com/developers/documentation/v3)
-  2. [GitHub](https://developer.github.com/v3/)
-  3. [Open Weather](https://openweathermap.org/api)
-  4. [NASA](https://api.nasa.gov/)
-  5. [Rapid API](https://rapidapi.com/collection/list-of-free-apis) is a database of Free APIs you can use.
+Your task is to define a problem that your app will solve but, to some degree, you will be limited by which data sets and APIs you can get your hands on. There are a number of applications that expose APIs for developers to build cool apps on top of. Here are a few resources to start your search:
+  1. [API List](https://apilist.fun/)
+  2. [Rapid API](https://rapidapi.com/collection/list-of-free-apis)
+  3. [Pulbic APIs](https://github.com/public-apis/public-apis)
 
 There is so much more out there too!
 
