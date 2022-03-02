@@ -18,3 +18,8 @@
     display: flex;
     margin-right: 2em;
 }
+
+.filter-form {
+    display: none;
+    margin-top: 2em;
+}
