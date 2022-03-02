@@ -16,7 +16,7 @@ The requirements of this project are straightforward. You must build a frontend 
 Your task is to define a problem that your app will solve but, to some degree, you will be limited by which data sets and APIs you can get your hands on. There are a number of applications that expose APIs for developers to build cool apps on top of. Here are a few resources to start your search:
   1. [API List](https://apilist.fun/)
   2. [Rapid API](https://rapidapi.com/collection/list-of-free-apis)
-  3. [Pulbic APIs](https://github.com/public-apis/public-apis)
+  3. [Public APIs](https://github.com/public-apis/public-apis)
 
 There is so much more out there too!
 
