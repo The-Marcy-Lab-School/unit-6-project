@@ -22,7 +22,7 @@ There is so much more out there too!
 
 ## Vetting your API 
 
-Not all APIs are created equal. Before you commit to using an APi and pitching your project, you should make fetch calls either via the browser, POSTMAN, or using `fetch` in the console. Once you confirm you are able to access the data, you can use to the API for your project. 
+Not all APIs are created equal. Before you commit to using an API and planning your project, you should make fetch calls either via the POSTMAN or by using JavaScript's `fetch`. Once you confirm you are able to access the data, you can use to the API for your project. 
 
 ## Using Your Resources
 
@@ -31,9 +31,6 @@ Just like last time, this project will push you to lean into your _autodidactici
 ## Grading
 ### Scoring
 Your submission will be scored against the following criteria:
-
-#### Novel Insights:
-* Does your app provide novel insight on data fetched from an API and/or does it present this data in a novel way?
 
 #### User Interface/Experience:
 * Is your app visually appealing?
