@@ -28,14 +28,12 @@ Not all APIs are created equal. Before you commit to using an API and planning y
 
 Just like last time, this project will push you to lean into your _autodidacticism_. In order to complete this project at a satisfactory level, you _will_ have to do some self-learning. This is by design. By pulling from blog articles, YouTube tutorials, and examples on GitHub, you will be able to build whatever you put your mind to.
 
-## Grading
-### Scoring
-Your submission will be scored against the following criteria:
 
 #### User Interface/Experience:
-* Is your app visually appealing?
+* Is your app visually appealing? Does it use a CSS Library?
 * Can it be used intuitively with minimal direction?
-* Is the frontend bug free?
+* Does your app respond predictably to user inputs ,and does it handle errors well?
+* Is the fronteend bug free?
 
 #### Code Quality:
 * Is your business logic well-encapsulated?
