@@ -13,7 +13,7 @@ Your assignment is to build a frontend application. Again, there are general gui
 ## Project Requirements
 The requirements of this project are straightforward. You must build a frontend application that fetches data from some external API and presents some novel view or insights based on that data. I encourage you to choose a problem, data set, or API that you are personally interested in. 
 
-In addition, we want every student to be responsible for owning at least one fetch feature. Afterall, it wouldn't be a fair project week unless everyone got to practice Asynchronous JavaScript! Therefore, your group must have _at least_ 1 unique fetch URL per member of the group, but you can have more! These different fetch calls can be to different URL endpoints withint the same API, or they can be to different APIs.  
+In addition, **we want every student to be responsible for owning at least one fetch feature**. Afterall, it wouldn't be a fair project week unless everyone got to practice Asynchronous JavaScript! Therefore, your group must have _at least_ 1 unique fetch URL per member of the group, but you can have more! These different fetch calls can be to different URL endpoints withint the same API, or they can be to different APIs.  
 
 Your task is to define a problem that your app will solve but, to some degree, you will be limited by which data sets and APIs you can get your hands on. There are a number of applications that expose APIs for developers to build cool apps on top of. Here are a few resources to start your search:
   1. [API List](https://apilist.fun/)
